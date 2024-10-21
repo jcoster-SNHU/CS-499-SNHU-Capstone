@@ -22,17 +22,17 @@ When deciding which artifacts to include in my ePortfolio, I wanted to show my a
 5. Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
 
-# Code Review
+# Code Review:
 
 
 Code review is the process where developers take time to reflect on a project to review their code base to check for any issues, syntax errors and functionality problems that may have been missed during the build process. In computer science jobs code review is an essential part of the daily activities for both solo and team builds. The review process helps teams collaborate and return to any problem areas before the code makes it to production. During development pushes, coders often miss issues with only one set of eyes on the project and taking a second look can catch a lot of these issues. When reviewing code you should try and review smaller blocks for a set length of time. Giving yourself set blocks to review prevents creep and keeps the session focused on specific areas and limiting it to a set time frame ensures that you won’t get caught up in every single small detail and may create additional issues. I used OBS to record my code review. I have seen it used for screen casting videos on YouTube and it was free to download and use. It took some time to get set up correctly and I recorded a whole video before realizing the mic input was wrong and had to run it again. I took time to review all three projects beforehand as it has been months since I worked on these code bases. I then highlighted a few key points in the code to review and filmed a few practice sessions before doing the main recording.
 
-Code Review Link to my Youtube: https://www.youtube.com/watch?v=Shxm_f_fQI4
+[Code Review Link to my Youtube:](https://www.youtube.com/watch?v=Shxm_f_fQI4)
 
 
 # Artifact 1: Software Design and Engineering
 
-#### Original Code Files: https://github.com/jcoster-SNHU/SNHU-ePortfolio/blob/0f7aebce329ea6b6384bb38991ec233b52736cc8/Artifact1/WeightTrackingApp%20Jack%20Coster%20Original.zip
+#### [Original Code Files:](https://github.com/jcoster-SNHU/CS-499-SNHU-Capstone/blob/b788ce27df9a52612a026276c8b219a988606a27/Artifact1/WeightTrackingApp%20Jack%20Coster%20Original.zip)
 
 #### Enhanced Code Files: https://github.com/jcoster-SNHU/SNHU-ePortfolio/blob/0f7aebce329ea6b6384bb38991ec233b52736cc8/Artifact1/WeightTrackingApp%20Jack%20Coster%20CS499%20Enhanced.zip
 
